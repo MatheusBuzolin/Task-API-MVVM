@@ -8,5 +8,5 @@ interface APIListener<T> {
 
     fun onFailure(str: String)
 
-    fun teste()
+    fun teste(STR: Int)
 }
