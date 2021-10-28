@@ -7,4 +7,6 @@ interface APIListener<T> {
     fun onSuccess(model: T)
 
     fun onFailure(str: String)
+
+    fun teste(STR: Int)
 }
