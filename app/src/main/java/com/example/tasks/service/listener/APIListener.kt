@@ -9,4 +9,6 @@ interface APIListener<T> {
     fun onFailure(str: String)
 
     fun teste(STR: Int)
+
+    fun apdut(DDD: Int)
 }
