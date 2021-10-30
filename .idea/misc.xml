@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/layout/fragment_all_tasks.xml" value="0.3296875" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.3296875" />
         <entry key="app/src/main/res/layout/row_task_list.xml" value="0.35572916666666665" />
       </map>
     </option>
